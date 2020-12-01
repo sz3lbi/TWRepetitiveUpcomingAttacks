@@ -5,8 +5,8 @@
 // @website       https://szelbi.ovh/
 // @match         */game.php*
 // @grant         none
-// @updateURL     https://raw.githubusercontent.com/sz3lbi/TWRepetitiveUpcomingAttacks/master/TWRepetitiveUpcomingAttacks.user.js
-// @downloadURL   https://raw.githubusercontent.com/sz3lbi/TWRepetitiveUpcomingAttacks/master/TWRepetitiveUpcomingAttacks.user.js
+// @updateURL     https://github.com/sz3lbi/TWRepetitiveUpcomingAttacks/raw/main/TWRepetitiveUpcomingAttacks.user.js
+// @downloadURL   https://github.com/sz3lbi/TWRepetitiveUpcomingAttacks/raw/main/TWRepetitiveUpcomingAttacks.user.js
 // ==/UserScript==
 
 (function () {
